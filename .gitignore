@@ -121,4 +121,4 @@ dist/protocol.schema.json
 # Synthing
 **/.stfolder/
 
-.openclaw/
+.openclaw
